@@ -4,7 +4,7 @@
 
 Bilgisayar bilimleri, bilgisayarların çalışma prensiplerini, veri işleme yöntemlerini ve yazılım-donanım ilişkisini inceleyen önemli bir bilim dalıdır. Günümüzde eğitimden sağlığa, iletişimden eğlenceye kadar birçok alanda bilgisayar teknolojileri kullanılmaktadır. Bu nedenle bilgisayarın temel bileşenlerini anlamak oldukça önemlidir.
 
-Bu raporda bilgisayarın en önemli donanım parçalarından olan CPU (Merkezi İşlem Birimi), RAM (Bellek) ve depolama birimleri detaylı bir şekilde incelenecektir.
+
 
 ---
 
